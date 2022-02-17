@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Robert 
 - 👀 I’m interested in Cloud Native and Devops 
-- 🌱 I’m currently learning Cloud Native DevOps Bootcamp
+- 🌱 I’m currently learning Cloud Native DevOps Bootcamp & Google cloud Architect 
